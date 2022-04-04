@@ -1,0 +1,2 @@
+# USAccidents
+[2022] Projet Python afin de réunir les fonctionnalités principales de Spark, Big Query, et Pandas. Les données utilisées peuvent être trouvées ici : https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents. Cependant, le résultats de l'exécution du code ne seront pas forcément identiques, si les données sont mises à jour entre temps. De plus, l'insertion dans Big Query ne fonctionnera pas sur mon compte, il faut que vous changiez les paramètres d'id du projet et que vous mettiez le votre.
